@@ -1,0 +1,48 @@
+#firstview {
+  padding: 3%;
+  font-family: "Golos Text", sans-serif;
+  background: linear-gradient(to bottom right, #ffffff 0%, #356dbe 100%);
+}
+
+#containnavbar {
+  font-weight: bold;
+  width: auto;
+  border-radius: 44px;
+  padding: 1%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+#building-pic {
+  height: 400px;
+}
+
+#titlecontain {
+  display: flex;
+  margin-left: 1px;
+}
+
+#title {
+  text-align: left;
+  display: flex;
+  margin-left: 1px;
+  width: auto;
+  padding-right: 1%;
+  font-size: 80px;
+  font-weight: 900;
+}
+
+#main {
+  padding-top: 5vh;
+}
+
+#button1 {
+  font-family: "Golos Text", sans-serif;
+  font-weight: 600;
+  width: auto;
+  margin-left: 10px;
+}
+
+#button1:hover {
+  color: blue;
+}
